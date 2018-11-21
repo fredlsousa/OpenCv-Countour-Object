@@ -1,2 +1,2 @@
-# Red_Detection
-Algorithm to detect red objects in a image. Using the Contours method and OpenCV Python.
+# Color_Detection
+Python class to detect objects contours with a given RGB color range in a image. Using the Contours method and OpenCV Python.
